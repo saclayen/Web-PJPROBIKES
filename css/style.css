@@ -117,7 +117,7 @@ ul.callbacks_tabs.callbacks1_tabs {
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   top: 50%;
   left:20px;
-  opacity: 0.7;
+  opacity: 1;
   z-index: 3;
   text-indent: -9999px;
   overflow: hidden;
@@ -133,10 +133,10 @@ ul.callbacks_tabs.callbacks1_tabs {
   right: 25px;
  }
  .caption h1{
-	font-size:3.5em;
-	font-weight:500;
-	color:#fff;
-	margin-bottom:8px;
+	font-size: 3.5em;
+	font-weight: 500;
+	color: #F00;
+	margin-bottom: 8px;
 }
 .caption p{
 	color:#fff;
